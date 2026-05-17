@@ -1,0 +1,7 @@
+-Created Group Policy Objects (GPOs) using Group Policy Management
+-Applied policies such as:
+	-Password complexity requirements
+	-Desktop restrictions
+	-Control Panel access restrictions
+-Linked GPOs to appropriate OUs
+-Verified policy enforcement using gpupdate /force

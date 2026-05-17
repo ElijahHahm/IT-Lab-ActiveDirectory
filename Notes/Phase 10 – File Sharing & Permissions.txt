@@ -1,0 +1,8 @@
+-Created shared folders on DC01:
+	-C:\Shared\HR
+	-C:\Shared\IT
+-Configured NTFS and Share permissions:
+	-HR_Users → access to HR folder
+	-IT_Admins → access to IT folder
+-Verified access using domain users from PC01
+-Demonstrated role-based access control

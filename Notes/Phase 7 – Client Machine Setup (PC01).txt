@@ -1,0 +1,4 @@
+-Created Windows 10/11 virtual machine named PC01
+-Allocated 4GB RAM and 40GB storage
+-Configured network adapter for domain connectivity
+-Prepared workstation for domain join process

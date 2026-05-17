@@ -1,0 +1,6 @@
+-Installed Active Directory Domain Services (AD DS) role
+-Installed DNS Server role
+-Promoted server to Domain Controller
+-Created new domain: corp.local
+-Verified domain functionality after reboot
+-Created snapshot: Domain Controller Ready

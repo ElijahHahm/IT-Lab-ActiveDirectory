@@ -1,0 +1,5 @@
+-Installed Oracle VM VirtualBox
+-Used default installation settings
+-Installed required network drivers
+-Verified virtualization software is functioning correctly
+-Rebooted system after installation if required

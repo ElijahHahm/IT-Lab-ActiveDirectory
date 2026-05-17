@@ -1,0 +1,8 @@
+-Renamed server to DC01
+-Configured static IP addressing:
+	-IP: 192.168.1.10
+	-Subnet: 255.255.255.0
+	-DNS: 192.168.1.10
+-Ensured server maintains consistent network identity
+-Restarted system to apply configuration
+-Created snapshot: Base Config

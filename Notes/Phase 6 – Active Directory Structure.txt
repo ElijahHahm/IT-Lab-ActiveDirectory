@@ -1,0 +1,12 @@
+-Created Organizational Units (OUs):
+	-IT
+	-HR
+	-Computers
+-Created domain users:
+	-jsmith
+	-mjones
+-Created security groups:
+	-IT_Admins
+	-HR_Users
+-Assigned users to appropriate security groups
+-Established structured identity management system

@@ -1,0 +1,8 @@
+-Verified virtualization support is enabled in BIOS/Task Manager
+-Confirmed system has sufficient disk space (~80GB free)
+-Created structured project folder:
+	-ISOs
+	-Screenshots
+	-Notes
+	-Exports
+-Prepared environment for virtual lab deployment

@@ -1,0 +1,5 @@
+-Created new virtual machine named DC01
+-Allocated 4GB RAM, 2 CPU cores, and 50GB dynamic disk
+-Installed Windows Server (Desktop Experience)
+-Completed initial OS setup and configuration
+-Created snapshot: Fresh Install

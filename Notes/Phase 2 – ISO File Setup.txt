@@ -1,0 +1,4 @@
+-Downloaded Windows Server 2022 Evaluation ISO
+-Downloaded Windows 10/11 ISO
+-Stored ISO files in structured directory: IT-Lab/ISOs
+-Verified ISO integrity and accessibility for VM installation

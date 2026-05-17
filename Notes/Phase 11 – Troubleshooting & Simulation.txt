@@ -1,0 +1,11 @@
+-Simulated misconfigurations to practice troubleshooting:
+DNS Issue
+-Changed DNS incorrectly on client
+-Result: Domain access failed
+-Fix: Restored DNS to DC01 IP
+Account Lockout
+-Triggered failed login attempts
+-Resolved via Active Directory account unlock
+Group Policy Issue
+-Verified policy application using gpresult /r
+-Diagnosed and corrected GPO misconfiguration
